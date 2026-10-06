@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  petclinic-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-06T11:51:23.5355151+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 822a09e5ba0b1fea5ac8363c90c8ed9feba2abf5ce17250e134e79938224bfd2
+    name: petclinic-chart
+    type: application
+    urls:
+    - petclinic-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-06T11:51:23.5313547+05:30"
